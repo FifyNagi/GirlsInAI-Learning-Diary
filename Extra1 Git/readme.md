@@ -21,3 +21,6 @@ locate to the path. Be careful that you may not locate to the folder in another 
 发现已经切换到D盘下。  
 输入cd Program Files 回车。  
 ![mkdircd](https://github.com/FifyNagi/GirlsInAI-Learning-Diary/blob/master/Others/mkdircd.png)
+* Update (pull the updates): open cmd in the folder containing .git (shift + right click)  
+`git pull` 
+![Gitpull](https://github.com/FifyNagi/GirlsInAI-Learning-Diary/blob/master/Others/gitpull.png)
