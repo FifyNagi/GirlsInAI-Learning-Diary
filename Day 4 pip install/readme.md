@@ -2,6 +2,7 @@
 ### Log
 1. Launch pip in cmd and pip commands
 2. Download package "pandas"
+3. Download numpy and matplotlib
 
 ### Note
 * pip: package manager
