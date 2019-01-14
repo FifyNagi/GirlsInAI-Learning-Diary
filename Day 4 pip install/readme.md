@@ -1,7 +1,7 @@
 ## Day 3 pip install
 ### Log
 1. Launch pip in cmd and pip commands
-2. Download package "pandas"
+2. Download and import package "pandas"
 3. Download numpy and matplotlib
 
 ### Note
