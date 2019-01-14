@@ -7,7 +7,7 @@
 ### Note:
 * cmd  
 `git`  
-* cmd
+* cmd  
 `git --version`  
 * cmd  
 `mkdir` *path*  
