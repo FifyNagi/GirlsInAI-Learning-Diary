@@ -4,7 +4,8 @@
 2. Using the function `print()` and operator **+** with numbers(objects)  
 3. Reading Materials:   
 - [x] [Reading 1](https://www.tutorialspoint.com/python3/python_variable_types.htm)
-- [ ] [Reading 2](https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html)
+- [ ] [Reading 2](https://docspy3zh.readthedocs.io/en/latest/reference/datamodel.html)  
+- [ ] [Something I don't quite understand now](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr)
 
 ### Note:
 * Variables are reserved memory locations to store values
