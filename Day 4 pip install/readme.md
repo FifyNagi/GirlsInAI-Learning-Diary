@@ -1,4 +1,4 @@
-## Day 3 pip install
+## Day 4 pip install
 ### Log
 1. Launch pip in cmd and pip commands
 2. Download and import package "pandas"
