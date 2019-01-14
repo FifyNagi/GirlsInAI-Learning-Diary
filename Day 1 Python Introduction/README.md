@@ -8,9 +8,9 @@
 Python: the language　　
 	
 * Open Jupyter: Anaconda-Environment-base(root)-Open with Jupyter Notebook  
-Close Jupyter Notebook: twice *CTRL+C* in cmd window　　
+Close Jupyter Notebook: twice **CTRL+C** in cmd window　　
 	
-* "Terminal" in Jupyter Notebook doesn't seem to work under win 8.1　　
+* "Terminal" *in Jupyter Notebook* doesn't seem to work under win 8.1　　
 * cmd  
 `<git --version>`  
 
