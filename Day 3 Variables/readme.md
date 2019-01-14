@@ -16,6 +16,7 @@
 ![Homework3-1](https://github.com/FifyNagi/GirlsInAI-Learning-Diary/blob/master/Others/homework3-1.png)
 ![Homework3-2](https://github.com/FifyNagi/GirlsInAI-Learning-Diary/blob/master/Others/homework3-2.png)
 
+***
 ### Reading 1
 * Assigning same value to different variables  
 `a=b=c=1`
@@ -66,5 +67,5 @@
   ```
   * Dictionary (keys and values; **no order**)
   ![Dictionary](https://github.com/FifyNagi/GirlsInAI-Learning-Diary/blob/master/Others/dictionary.png)
-* Data Type conversion: use the type-names as a function (`a="90.3"`, `b=float(a)`)
+* Data Type conversion: use the type-names as a function (`a="90.3"`, `b=float(a)`)  
 a is a string and b is a float
